@@ -92,8 +92,11 @@ Exploratory Data Analysis
 
 Data Visualization
 
-KPI Development
 
-Dashboard Design
+![image](https://github.com/thamarai15503-DA/Customer-Review-and-Product-Performance-Analysis/blob/main/page1.png)
+![image](https://github.com/thamarai15503-DA/Customer-Review-and-Product-Performance-Analysis/blob/main/page2.png)
+![image](https://github.com/thamarai15503-DA/Customer-Review-and-Product-Performance-Analysis/blob/main/page3.png)
+![image](https://github.com/thamarai15503-DA/Customer-Review-and-Product-Performance-Analysis/blob/main/page4.png)
+![image](https://github.com/thamarai15503-DA/Customer-Review-and-Product-Performance-Analysis/blob/main/page5.png)
 
 Business Insight Generation
